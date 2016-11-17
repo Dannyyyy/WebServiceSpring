@@ -205,7 +205,6 @@
     <Content Include="Content\themes\base\minified\jquery.ui.slider.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
-    <Content Include="HelloWorldService.asmx" />
     <Content Include="Images\accent.png" />
     <Content Include="Images\bullet.png" />
     <Content Include="Images\heroAccent.png" />
@@ -349,7 +348,6 @@
       <DependentUpon>BasketballTeams.xsd</DependentUpon>
     </Compile>
     <Compile Include="CoachAccessor.cs" />
-    <Compile Include="Connection.cs" />
     <Compile Include="Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -375,17 +373,12 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="EmployeeDataAcessor.cs" />
-    <Compile Include="FineListDataAcessor.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="HelloWorldServiceImpl.cs" />
     <Compile Include="ManagerAccessor.cs" />
     <Compile Include="PlayerAccessor.cs" />
-    <Compile Include="PostDataAcessor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ReasonDataAcessor.cs" />
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -401,8 +394,6 @@
       <DependentUpon>Site.Mobile.Master</DependentUpon>
     </Compile>
     <Compile Include="TeamAccessor.cs" />
-    <Compile Include="Transaction.cs" />
-    <Compile Include="UnitDataAcessor.cs" />
     <Compile Include="ViewSwitcher.ascx.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
