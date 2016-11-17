@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects xmlns="http://www.springframework.net">
+  <object id = "ConnectionString" type="string" >
+    <constructor-arg value="Data Source=.\SQLEXPRESS;Initial Catalog=NBATeams;Integrated Security=True" />
+  </object>
+  <object id = "coach" type ="SOTRAP6.CoachAccessor" />
+  <object id = "team" type ="SOTRAP6.TeamAccessor" />
+  <object id = "manager" type ="SOTRAP6.ManagerAccessor" />
+  <object id = "player" type ="SOTRAP6.PlayerAccessor" />
+  <object id = "logic" type = "SOTRAP6.BasketballLogic">
+    <property name = "ConnectionString" ref = "ConnectionString" />
+    <property name = "CoachAccessor" ref = "coach" />
+    <property name = "TeamAccessor" ref = "team" />
+    <property name = "ManagerAccessor" ref = "manager" />
+    <property name = "PlayerAccessor" ref = "player" />
+  </object>
+  <object id ="BLogic" type ="Spring.Web.Services.WebServiceExporter, Spring.Web">
+    <property name ="TargetName" value ="logic" />
+    <property name ="Namespace" value ="http://somecompany/someservice" />
+    <property name ="MemberAttributes">
+      <dictionary>
+        <entry key ="readCoachs">
+          <object type = "System.Web.Services.WebMethodAttribute, System.Web.Services">
+            <property name = "MessageName" value = "readCoachs" />
+          </object>
+        </entry>
+        <entry key ="readTeams">
+          <object type = "System.Web.Services.WebMethodAttribute, System.Web.Services">
+            <property name = "MessageName" value = "readTeams" />
+          </object>
+        </entry>
+        <entry key ="readPlayers">
+          <object type = "System.Web.Services.WebMethodAttribute, System.Web.Services">
+            <property name = "MessageName" value = "readPlayers" />
+          </object>
+        </entry>
+        <entry key ="readManagers">
+          <object type = "System.Web.Services.WebMethodAttribute, System.Web.Services">
+            <property name = "MessageName" value = "readManagers" />
+          </object>
+        </entry>
+        <entry key ="updateCoach">
+          <object type = "System.Web.Services.WebMethodAttribute, System.Web.Services">
+            <property name = "MessageName" value = "updateCoach" />
+          </object>
+        </entry>
+        <entry key ="updateTeam">
+          <object type = "System.Web.Services.WebMethodAttribute, System.Web.Services">
+            <property name = "MessageName" value = "updateTeam" />
+          </object>
+        </entry>
+        <entry key ="updatePlayer">
+          <object type = "System.Web.Services.WebMethodAttribute, System.Web.Services">
+            <property name = "MessageName" value = "updatePlayer" />
+          </object>
+        </entry>
+        <entry key ="updateManager">
+          <object type = "System.Web.Services.WebMethodAttribute, System.Web.Services">
+            <property name = "MessageName" value = "updateManager" />
+          </object>
+        </entry>
+      </dictionary>
+    </property>
+  </object>
+</objects>

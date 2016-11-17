@@ -1,0 +1,143 @@
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\SOTRAP6.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\SOTRAP6.pdb
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Antlr3.Runtime.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Common.Logging.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.AspNet.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.Core.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OAuth.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OpenId.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\EntityFramework.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Microsoft.Web.Infrastructure.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Spring.Core.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Spring.Web.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\System.Web.Optimization.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\System.Web.Providers.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\WebGrease.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Spring.Core.pdb
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Spring.Core.xml
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Spring.Web.pdb
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Spring.Web.xml
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\EntityFramework.xml
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.Core.xml
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OAuth.xml
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OpenId.xml
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.AspNet.xml
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\ru\EntityFramework.resources.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\ru\System.Web.Optimization.resources.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\ru\System.Web.Providers.resources.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\ru\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\obj\Debug\SOTRAP6.csprojResolveAssemblyReference.cache
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\obj\Debug\SOTRAP6.dll
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\obj\Debug\SOTRAP6.pdb
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Common.Logging.pdb
+c:\users\vlad\documents\visual studio 2012\Projects\SOTRAP6\SOTRAP6\bin\Common.Logging.xml
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\SOTRAP6.dll.config
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\SOTRAP6.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\SOTRAP6.pdb
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Antlr3.Runtime.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Common.Logging.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.Core.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\EntityFramework.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Spring.Core.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Spring.Web.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\System.Web.Optimization.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\System.Web.Providers.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\WebGrease.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Common.Logging.pdb
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Common.Logging.xml
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Spring.Core.pdb
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Spring.Core.xml
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Spring.Web.pdb
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Spring.Web.xml
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\EntityFramework.xml
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.Core.xml
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\ru\EntityFramework.resources.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\ru\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\obj\Debug\SOTRAP6.csprojResolveAssemblyReference.cache
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\obj\Debug\SOTRAP6.dll
+C:\Users\Danil\Downloads\service\SOTRAP\лабы\lab6\SOTRAP6\SOTRAP6\obj\Debug\SOTRAP6.pdb
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\SOTRAP6.dll.config
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\SOTRAP6.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\SOTRAP6.pdb
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Antlr3.Runtime.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Common.Logging.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.Core.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\EntityFramework.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Spring.Core.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Spring.Web.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\System.Web.Optimization.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\System.Web.Providers.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\WebGrease.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Common.Logging.pdb
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Common.Logging.xml
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Spring.Core.pdb
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Spring.Core.xml
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Spring.Web.pdb
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Spring.Web.xml
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\EntityFramework.xml
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.Core.xml
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\ru\EntityFramework.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\ru\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\obj\Debug\SOTRAP6.csprojResolveAssemblyReference.cache
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\obj\Debug\SOTRAP6.dll
+C:\Users\Danil\Documents\Visual Studio 2015\Projects\service_lab6WebService\SOTRAP6\SOTRAP6\obj\Debug\SOTRAP6.pdb
